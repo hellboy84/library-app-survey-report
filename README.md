@@ -9,6 +9,11 @@
 このレポートはGitHub Pagesで公開されています：
 https://hellboy84.github.io/library-app-survey-report/
 
+## アンケートデータ
+
+今回用いた架空のアンケートデータです：
+libraryapp_enquete.csv
+
 ## 内容
 
 - 年代別の図書館利用頻度分析
