@@ -6,13 +6,13 @@
 
 ## 公開URL
 
-このレポートはGitHub Pagesで公開されています：
+このレポートはGitHub Pagesで公開されています：  
 https://hellboy84.github.io/library-app-survey-report/
 
 ## アンケートデータ
 
-今回用いた架空のアンケートデータです：
-libraryapp_enquete.csv
+今回用いた架空のアンケートデータです：  
+[libraryapp_enquete.csv](https://github.com/hellboy84/library-app-survey-report/blob/main/libraryapp_enquete.csv)
 
 ## 内容
 
